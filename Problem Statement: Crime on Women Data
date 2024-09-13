@@ -1,0 +1,24 @@
+Problem Statement: Crime on Women Data
+Purpose: The purpose of analyzing crime data involving women is to understand the patterns and factors contributing to these crimes. This analysis aims to identify trends, risk factors, and potential areas for intervention to reduce crime rates and improve safety for women.
+
+Problem to Solve:
+
+Objective: Determine factors that influence the incidence of crimes against women and identify trends or patterns over time or across different locations. This can help in formulating targeted policies and intervention strategies to address and mitigate such crimes.
+Potential Use Cases:
+Policy Making: Inform policymakers about high-risk areas and times, allowing for better resource allocation and preventive measures.
+Awareness Campaigns: Help design awareness and safety campaigns focused on high-risk demographics or locations.
+
+Columns and Data Types:
+
+Year (integer): The year in which the crimes were reported. This helps in analyzing trends over time.
+State (categorical): The state or region where the crimes occurred. This allows for geographical analysis.
+Rape (integer): The number of rape incidents reported. Key for understanding the incidence of sexual violence.
+K&A (integer): The number of incidents classified as 'Kidnapping & Abduction'. Important for understanding crimes involving coercion or restraint.
+DD (integer): The number of incidents classified as 'Dowry Deaths'. Critical for examining crimes related to dowry practices.
+AoW (integer): The number of incidents classified as 'Assaults on Women'. Helps in analyzing physical violence against women.
+AoM (integer): The number of incidents classified as 'Assaults on Minors'. Provides insights into crimes involving younger female victims.
+DV (integer): The number of incidents classified as 'Domestic Violence'. Vital for understanding violence occurring within domestic settings.
+WT (integer): The number of incidents classified as 'Witchcraft-related Crimes'. Helps in understanding culturally specific crimes.
+Explanation:
+
+The dataset is aimed at understanding the dynamics of crimes against women, focusing on identifying patterns and factors that could inform prevention and intervention strategies. Analyzing these variables will help in developing targeted measures to enhance safety and reduce crime rates against women.
